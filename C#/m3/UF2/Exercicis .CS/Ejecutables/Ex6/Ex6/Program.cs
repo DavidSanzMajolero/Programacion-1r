@@ -5,13 +5,9 @@ namespace Project
     {
         public static void Main()
         {
+            Console.WriteLine("Enter a number: ");
             int num = Convert.ToInt32(Console.ReadLine());
-            Comprobation(num);
-        }
-        public static void Comprobation(int num)
-        {
-            num = Math.Abs(num);
-            Console.WriteLine(num);
+            Console.WriteLine(Math.Abs(num));
         }
     }
 }
