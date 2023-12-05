@@ -1,0 +1,15 @@
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\Refactory\Refactory\bin\Debug\net7.0\Refactory.exe
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\Refactory\Refactory\bin\Debug\net7.0\Refactory.deps.json
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\Refactory\Refactory\bin\Debug\net7.0\Refactory.runtimeconfig.json
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\Refactory\Refactory\bin\Debug\net7.0\Refactory.dll
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\Refactory\Refactory\bin\Debug\net7.0\Refactory.pdb
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\Refactory\Refactory\obj\Debug\net7.0\Refactory.csproj.AssemblyReference.cache
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\Refactory\Refactory\obj\Debug\net7.0\Refactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\Refactory\Refactory\obj\Debug\net7.0\Refactory.AssemblyInfoInputs.cache
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\Refactory\Refactory\obj\Debug\net7.0\Refactory.AssemblyInfo.cs
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\Refactory\Refactory\obj\Debug\net7.0\Refactory.csproj.CoreCompileInputs.cache
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\Refactory\Refactory\obj\Debug\net7.0\Refactory.dll
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\Refactory\Refactory\obj\Debug\net7.0\refint\Refactory.dll
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\Refactory\Refactory\obj\Debug\net7.0\Refactory.pdb
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\Refactory\Refactory\obj\Debug\net7.0\Refactory.genruntimeconfig.cache
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\Refactory\Refactory\obj\Debug\net7.0\ref\Refactory.dll

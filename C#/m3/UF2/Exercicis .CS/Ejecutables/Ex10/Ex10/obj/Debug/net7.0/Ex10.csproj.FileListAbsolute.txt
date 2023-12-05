@@ -1,0 +1,15 @@
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\UF2\Ex10\Ex10\bin\Debug\net7.0\Ex10.exe
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\UF2\Ex10\Ex10\bin\Debug\net7.0\Ex10.deps.json
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\UF2\Ex10\Ex10\bin\Debug\net7.0\Ex10.runtimeconfig.json
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\UF2\Ex10\Ex10\bin\Debug\net7.0\Ex10.dll
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\UF2\Ex10\Ex10\bin\Debug\net7.0\Ex10.pdb
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\UF2\Ex10\Ex10\obj\Debug\net7.0\Ex10.csproj.AssemblyReference.cache
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\UF2\Ex10\Ex10\obj\Debug\net7.0\Ex10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\UF2\Ex10\Ex10\obj\Debug\net7.0\Ex10.AssemblyInfoInputs.cache
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\UF2\Ex10\Ex10\obj\Debug\net7.0\Ex10.AssemblyInfo.cs
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\UF2\Ex10\Ex10\obj\Debug\net7.0\Ex10.csproj.CoreCompileInputs.cache
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\UF2\Ex10\Ex10\obj\Debug\net7.0\Ex10.dll
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\UF2\Ex10\Ex10\obj\Debug\net7.0\refint\Ex10.dll
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\UF2\Ex10\Ex10\obj\Debug\net7.0\Ex10.pdb
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\UF2\Ex10\Ex10\obj\Debug\net7.0\Ex10.genruntimeconfig.cache
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\UF2\Ex10\Ex10\obj\Debug\net7.0\ref\Ex10.dll

@@ -1,0 +1,15 @@
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\m5\bin\Debug\net7.0\m5.exe
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\m5\bin\Debug\net7.0\m5.deps.json
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\m5\bin\Debug\net7.0\m5.runtimeconfig.json
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\m5\bin\Debug\net7.0\m5.dll
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\m5\bin\Debug\net7.0\m5.pdb
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\m5\obj\Debug\net7.0\m5.csproj.AssemblyReference.cache
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\m5\obj\Debug\net7.0\m5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\m5\obj\Debug\net7.0\m5.AssemblyInfoInputs.cache
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\m5\obj\Debug\net7.0\m5.AssemblyInfo.cs
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\m5\obj\Debug\net7.0\m5.csproj.CoreCompileInputs.cache
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\m5\obj\Debug\net7.0\m5.dll
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\m5\obj\Debug\net7.0\refint\m5.dll
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\m5\obj\Debug\net7.0\m5.pdb
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\m5\obj\Debug\net7.0\m5.genruntimeconfig.cache
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m5\m5\obj\Debug\net7.0\ref\m5.dll
