@@ -1,0 +1,15 @@
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m3\UF2\Exercicis .CS\Ejecutables\Ex15\Ex15\bin\Debug\net7.0\Ex15.exe
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m3\UF2\Exercicis .CS\Ejecutables\Ex15\Ex15\bin\Debug\net7.0\Ex15.deps.json
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m3\UF2\Exercicis .CS\Ejecutables\Ex15\Ex15\bin\Debug\net7.0\Ex15.runtimeconfig.json
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m3\UF2\Exercicis .CS\Ejecutables\Ex15\Ex15\bin\Debug\net7.0\Ex15.dll
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m3\UF2\Exercicis .CS\Ejecutables\Ex15\Ex15\bin\Debug\net7.0\Ex15.pdb
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m3\UF2\Exercicis .CS\Ejecutables\Ex15\Ex15\obj\Debug\net7.0\Ex15.csproj.AssemblyReference.cache
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m3\UF2\Exercicis .CS\Ejecutables\Ex15\Ex15\obj\Debug\net7.0\Ex15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m3\UF2\Exercicis .CS\Ejecutables\Ex15\Ex15\obj\Debug\net7.0\Ex15.AssemblyInfoInputs.cache
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m3\UF2\Exercicis .CS\Ejecutables\Ex15\Ex15\obj\Debug\net7.0\Ex15.AssemblyInfo.cs
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m3\UF2\Exercicis .CS\Ejecutables\Ex15\Ex15\obj\Debug\net7.0\Ex15.csproj.CoreCompileInputs.cache
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m3\UF2\Exercicis .CS\Ejecutables\Ex15\Ex15\obj\Debug\net7.0\Ex15.dll
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m3\UF2\Exercicis .CS\Ejecutables\Ex15\Ex15\obj\Debug\net7.0\refint\Ex15.dll
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m3\UF2\Exercicis .CS\Ejecutables\Ex15\Ex15\obj\Debug\net7.0\Ex15.pdb
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m3\UF2\Exercicis .CS\Ejecutables\Ex15\Ex15\obj\Debug\net7.0\Ex15.genruntimeconfig.cache
+C:\Users\argo\Desktop\David Sanz\Programacio\C#\m3\UF2\Exercicis .CS\Ejecutables\Ex15\Ex15\obj\Debug\net7.0\ref\Ex15.dll
