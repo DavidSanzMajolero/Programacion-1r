@@ -1,27 +1,37 @@
 ﻿using System;
 namespace Exercicis
 {
-    public class Ex15
+    public class Ex16   
     {
         public static void Main()
         {
-            Console.Write("Introdueix un any: ");
-            int any = Convert.ToInt32(Console.ReadLine());
-            EsBisiesto(any);
-
-            
+            Console.WriteLine("Cuantos numeros quieres introducir?");
+            int n, count = 5;
+            do
+            {
+                n = Convert.ToInt32(Console.ReadLine());
+                count--;
+            } while ((n < 10 || n>100) && count > 0);
+            if (count > 0) 
+            {
+                int[] array = new int[n];
+                for (int i = 0; i < array.Length; i++)
+                {
+                    Console.Write("Introduce un numero: ");
+                    array[i] = Convert.ToInt32(Console.ReadLine());
+                }
+                Console.WriteLine("El resultado es: " + ArraySum(array));
+            }
+            else Console.WriteLine("Has superado el numero de intentos");
         }
-        public static void EsBisiesto(int any)
+        public static int ArraySum(int[] array)
         {
-            if ((any % 4 == 0 && any % 100 != 0) || (any % 400 == 0))
+            int result = 0;
+            for (int i = 0; i < array.Length; i++)
             {
-                Console.WriteLine($"{any} és un any de traspàs.");
+                result += array[i];
             }
-            else
-            {
-                Console.WriteLine($"{any} no és un any de traspàs.");
-            }
-
+            return result;
         }
     }
 }
