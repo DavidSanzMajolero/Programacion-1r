@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\argo\\Desktop\\David Sanz\\Programacio\\C#\\UF2\\Exercicis .CS\\Ejecutables\\Ex11\\Ex11\\Ex11.csproj",
+      "projectUniqueName": "C:\\Users\\argo\\Desktop\\David Sanz\\Programacio\\C#\\m3\\UF2\\Exercicis .CS\\Ejecutables\\Ex11\\Ex11\\Ex11.csproj",
       "projectName": "Ex11",
-      "projectPath": "C:\\Users\\argo\\Desktop\\David Sanz\\Programacio\\C#\\UF2\\Exercicis .CS\\Ejecutables\\Ex11\\Ex11\\Ex11.csproj",
+      "projectPath": "C:\\Users\\argo\\Desktop\\David Sanz\\Programacio\\C#\\m3\\UF2\\Exercicis .CS\\Ejecutables\\Ex11\\Ex11\\Ex11.csproj",
       "packagesPath": "C:\\Users\\argo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\argo\\Desktop\\David Sanz\\Programacio\\C#\\UF2\\Exercicis .CS\\Ejecutables\\Ex11\\Ex11\\obj\\",
+      "outputPath": "C:\\Users\\argo\\Desktop\\David Sanz\\Programacio\\C#\\m3\\UF2\\Exercicis .CS\\Ejecutables\\Ex11\\Ex11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\argo\\AppData\\Roaming\\NuGet\\NuGet.Config",
